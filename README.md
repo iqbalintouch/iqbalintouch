@@ -7,7 +7,7 @@ Most recently: Kubernetes Runtime Compute Platform at Expedia Group
 
 **What I work on here:**
 - Observability stacks (Prometheus, Grafana, OpenTelemetry, Elastic Stack)
-- SRE automation scripts (Python, Bash — real ops problems, not toy examples)
+- SRE automation scripts (Python, Bash — real ops problems)
 - Kubernetes + GitOps patterns (ArgoCD, Helm, Karpenter)
 - Incident response tooling
 
