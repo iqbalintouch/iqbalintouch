@@ -15,5 +15,5 @@ Most recently: Kubernetes Runtime Compute Platform at Expedia Group
 `Kubernetes` `AWS` `Prometheus` `Grafana` `OpenTelemetry` `Datadog` `Splunk`  
 `ArgoCD` `Terraform` `Helm` `Python` `Bash` `SLO/SLI` `PagerDuty`
 
-Based in Delhi NCR. Open to Senior SRE roles.  
+Open to SRE roles for remote, hyderabad, Delhi-NCR locations.  
 Connect on [LinkedIn](https://linkedin.com/in/miqubal)
